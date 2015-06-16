@@ -1,0 +1,22 @@
+{
+    "name": "logikio/laravel-algorithmia",
+    "description": "Laravel 5+ Algorithmia Wrapper",
+    "license": "MIT",
+    "homepage": "http://github.com/logikio/laravel-algorithmia",
+    "authors": [
+        {
+            "name": "logikio",
+            "email": "logikgp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Logikio\\LaravelAlgorithmia\\": "src/Logikio/LaravelAlgorithmia"
+        }
+    },
+    "minimum-stability": "dev"
+}
